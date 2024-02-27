@@ -3,9 +3,7 @@ Some information about the unbranded Chinese 7" TFT display. LCD IC driver: SSD1
 
 ------
 
-File "User_Setup.h" for SSD1963 parallel 7 inch TFT display
-
-- This file is used in the TFT_eSPI library
+- TFT_eSPI library: https://github.com/rtek1000/TFT_DDIG
 
 ------
 
