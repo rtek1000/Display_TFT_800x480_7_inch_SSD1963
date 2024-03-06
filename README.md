@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=ZjPZcyIQFhw
 
 ------
 
-Also check out this low-cost display module: [DWIN DMG80480Y070_02NN](https://github.com/rtek1000/DMG80480Y070_02NN_1st)
+- Also check out this low-cost display module: [DWIN DMG80480Y070_02NN](https://github.com/rtek1000/DMG80480Y070_02NN_1st)
 
 ------
 
