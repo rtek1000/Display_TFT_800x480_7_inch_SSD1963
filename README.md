@@ -14,6 +14,10 @@ https://www.youtube.com/watch?v=ZjPZcyIQFhw
 
 ------
 
+Also check out this low-cost display module: [DWIN DMG80480Y070_02NN](https://github.com/rtek1000/DMG80480Y070_02NN_1st)
+
+------
+
 ESP32 DEVKIT V1 and SSD1963 pinout:
 
 - Note: the USB port can only supply 500mA, the user must provide additional power to be able to utilize the screen brightness to its fullest. The 3.3V @ 200mA linear regulator consumes about 200mA at 5V (Part of the energy is lost as heat).
